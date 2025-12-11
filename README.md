@@ -26,7 +26,7 @@ Main capabilities:
 **Installation**  
 
 1. Navigate to the website:  
-https://github.com/mikes82pt/youscript-neo
+https://github.com/lunanetdev/youscript-neo
 
 2. Download the latest version suitable for your system.
 
